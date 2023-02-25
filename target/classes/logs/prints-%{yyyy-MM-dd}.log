@@ -1,0 +1,13 @@
+15:50:06.379 [TestNG-tests-4] INFO  tests.LoginTest - login test got passed
+15:50:11.442 [TestNG-tests-4] DEBUG tests.LoginTest - Browser got closed
+16:00:36.972 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got launched
+16:00:45.538 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application URL
+16:00:47.342 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on my account dropDown
+16:00:48.531 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login option
+16:00:49.041 [TestNG-tests-1] DEBUG tests.LoginTest - userName got entered
+16:00:49.663 [TestNG-tests-1] DEBUG tests.LoginTest - password got entered
+16:00:50.960 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login button
+16:00:51.143 [TestNG-tests-1] DEBUG tests.LoginTest - user got logged in
+16:00:51.147 [TestNG-tests-1] INFO  tests.LoginTest - login test got passed
+16:00:51.856 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got closed
+16:00:56.783 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got launched

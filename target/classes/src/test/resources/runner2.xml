@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite"  thread-count = "5" >
+    <test thread-count = "5" name = "testFour">
+        <classes>
+            <class name="runner.Runner"/>
+        </classes>
+    </test>
+<!--    <test thread-count = "5" name = "testTwo">-->
+<!--        <classes>-->
+<!--            <class name="tests.TestTwo"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test thread-count = "5" name = "testThree">-->
+<!--        <classes>-->
+<!--            <class name="tests.TestThree"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test thread-count = "5" name = "loginTest">-->
+<!--        <classes>-->
+<!--            <class name="tests.LoginTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
